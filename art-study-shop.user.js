@@ -1,14 +1,17 @@
 // ==UserScript==
 // @name         艺学小站
 // @namespace    art.study.shop
-// @version      6.0
+// @version      6.0.1
 // @description  让学习更加艺术！！！
 // @author       小柳Terra
+// @license      MIT
 // @match        *://www.bilibili.com/*
 // @match        *://m.bilibili.com/*
 // @grant        GM_xmlhttpRequest
 // @connect      music.163.com
 // @require      https://cdn.jsdelivr.net/npm/jsmediatags@3.9.7/dist/jsmediatags.min.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/Linlilcat/art-study-shop@main/art-study-shop.user.js
+// @updateURL    https://cdn.jsdelivr.net/gh/Linlilcat/art-study-shop@main/art-study-shop.user.js
 // @noframes
 // ==/UserScript==
 
