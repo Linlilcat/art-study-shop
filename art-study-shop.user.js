@@ -6789,7 +6789,7 @@ body.shop-focus-mode .bili-user-profile{
       '</div>' +
       '<div class="shop-footer">' +
       '<span id="shop-status">SYS: READY</span>' +
-      '<span>v6.0 ♡</span>' +
+      '<span>v6.2 ♡</span>' +
       '</div>';
     document.body.appendChild(panel);
 
