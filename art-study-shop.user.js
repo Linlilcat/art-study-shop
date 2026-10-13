@@ -4,6 +4,7 @@
 // @version      6.2.0
 // @description  让学习更加艺术！！！
 // @author       小柳Terra
+// @license      MIT
 // @match        *://www.bilibili.com/*
 // @match        *://m.bilibili.com/*
 // @grant        GM_xmlhttpRequest
