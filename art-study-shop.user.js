@@ -1,10 +1,9 @@
 // ==UserScript==
 // @name         艺学小站
 // @namespace    art.study.shop
-// @version      6.2.1
+// @version      6.2.0
 // @description  让学习更加艺术！！！
 // @author       小柳Terra
-// @license      MIT
 // @match        *://www.bilibili.com/*
 // @match        *://m.bilibili.com/*
 // @grant        GM_xmlhttpRequest
@@ -3844,7 +3843,7 @@ body.shop-focus-mode .bili-user-profile{
 · 请勿将本脚本用于商业用途或任何侵权用途。
 
 🌸 反馈 / 支持：
-<a class="shop-about-link" href="https://search.bilibili.com/all?keyword=%E5%B0%8F%E6%9F%B3Terra" target="_blank" rel="noopener">→ 前往哔哩哔哩 ←</a>
+<a class="shop-about-link" href="https://search.bilibili.com/all?keyword=你被骗了喵" target="_blank" rel="noopener">→ 前往哔哩哔哩 ←</a>
 感谢使用喵～` +
       '</div>' +
       '<div class="shop-confirm-btns" style="flex-wrap:wrap;">' +
